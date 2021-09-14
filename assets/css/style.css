@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-pink {
+    background-color: #E83E8C;
+}
+
+.logo {
+    width: 8rem;
+}
+
+h1 {
+    padding-top: 8rem;
+}
+
+.text-grey {
+    color: #707070;
+}
+
+.card {
+    margin: 0 1.5rem;
+}
+
+.card-text {
+    max-height: 3rem;
+}
+
+.text-dark {
+    color: #373A3C;
+}
